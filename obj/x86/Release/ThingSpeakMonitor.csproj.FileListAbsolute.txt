@@ -1,0 +1,14 @@
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\bin\Release\Check.ico
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\bin\Release\Error.ico
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\bin\Release\ThingSpeakMonitor.exe
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\bin\Release\ThingSpeakMonitor.pdb
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\obj\x86\Release\MainWindow.baml
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\obj\x86\Release\MainWindow.g.cs
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\obj\x86\Release\App.g.cs
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\obj\x86\Release\ThingSpeakMonitor_Content.g.cs
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\obj\x86\Release\ThingSpeakMonitor_MarkupCompile.cache
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\obj\x86\Release\ThingSpeakMonitor.g.resources
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\obj\x86\Release\ThingSpeakMonitor.Properties.Resources.resources
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\obj\x86\Release\ThingSpeakMonitor.csproj.GenerateResource.Cache
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\obj\x86\Release\ThingSpeakMonitor.exe
+C:\Users\tstewart\Documents\Trever's Programs\Stuff\Mine Field\ThingSpeakMonitor\ThingSpeakMonitor\obj\x86\Release\ThingSpeakMonitor.pdb

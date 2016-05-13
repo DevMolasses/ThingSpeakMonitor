@@ -1,0 +1,8 @@
+﻿<Window x:Class="ThingSpeakMonitor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="LC Monitor" Height="80" Width="185" Background="White" HorizontalContentAlignment="Center" ResizeMode="CanMinimize" Closing="Window_Closing">
+    <Grid>
+        <Label Content="Last Entry Date Time" Name="lastEntryLabel" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+    </Grid>
+</Window>
